@@ -8,3 +8,4 @@ dog = ["migy", "koykoy"];
 let petss = cat + dog;
 
 console.log(petss)
+document.getElementById("syntax").innerHTML = petss;

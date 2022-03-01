@@ -3,5 +3,5 @@ let dayfood = 3;
 let petplate = 3;        // assign the value 2 to y
 let petfood = homepets * dayfood / petplate;     // assign the value 7 to z (5 + 2)
 
+document.getElementById("operators").innerHTML = petfood;
 console.log(petfood)
-

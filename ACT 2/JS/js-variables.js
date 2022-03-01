@@ -5,3 +5,4 @@ let why = '(chonk)'
 let namee =  firstName + why;
 
 console.log(namee);
+document.getElementById("variables").innerHTML = namee;
