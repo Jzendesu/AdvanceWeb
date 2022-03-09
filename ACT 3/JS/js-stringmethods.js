@@ -1,0 +1,2 @@
+let textts = "NEVER GONNA GIVE U UP, NEVER GONNA LET U DOWN";
+document.getElementById("stringmethods").innerHTML = "NEVER GONNA GIVE U UP, NEVER GONNA LET U DOWN have " + textts.length + "text length " ;
