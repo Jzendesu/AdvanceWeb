@@ -1,2 +1,6 @@
+document.getElementById("txtonly1").innerHTML = ('The Events: ');
 
-<button onclick="document.getElementById('events').innerHTML=Date()">The time is?</button>
+function displayDate() {
+
+    document.getElementById("events").innerHTML = Date();
+  }
